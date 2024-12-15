@@ -98,8 +98,3 @@ Feel free to submit issues or pull requests. For major changes, please open an i
 
 <b>License</b>
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-### Highlights:
-- The project now includes **bold** tags (`<b>`) to emphasize key sections.
-- It uses **center alignment** for the title (`<center>`), although GitHub may not fully support this in Markdown.
-- Sections are clearly outlined for easy navigation: **Models**, **Prerequisites**, **Installation**, **Usage**, etc.
